@@ -8,7 +8,7 @@ A visually intuitive, Kanban-inspired Todo board built with React, Vite, and Tai
 
 1. **Clone the repository**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/harshitverma-dev/Trello-Style-Todo-Board.git
    cd Trello-todo-board
    ```
 
